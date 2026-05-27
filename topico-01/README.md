@@ -99,11 +99,6 @@ Continuar a utilizar Linux no browser nas próximas atividades até configurar u
 
 ---
 
-# Produto Final
-
-Esta pasta será utilizada para armazenar o projeto final desenvolvido ao longo do módulo.
-
----
 
 ## Evidências
 
