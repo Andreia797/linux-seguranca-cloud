@@ -1,1 +1,24 @@
 
+1. pwd
+Finalidade: Mostrar o diretório atual de trabalho.
+
+2. whoami
+Finalidade: Mostrar o utilizador atual do sistema.
+
+3. hostname
+Finalidade: Mostrar o nome da máquina Linux.
+
+4. uname -a
+Finalidade: Mostrar informações do kernel e sistema Linux.
+
+5. df -h
+Finalidade: Mostrar espaço disponível em disco.
+
+6. free -h
+Finalidade: Mostrar utilização da memória RAM.
+
+7. ls
+Finalidade: Listar ficheiros e diretórios.
+
+8. mkdir -p
+Finalidade: Criar diretórios para organizar o projeto.
