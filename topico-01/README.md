@@ -109,4 +109,4 @@ Esta pasta será utilizada para armazenar o projeto final desenvolvido ao longo 
 
 ### Screenshot do terminal Linux
 
-![Terminal Linux](evidencias/terminal-linux.png)
+![Terminal Linux](evidencias/terminal-linux.PNG)
