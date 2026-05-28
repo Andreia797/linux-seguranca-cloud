@@ -5,7 +5,7 @@
 
 **Formanda:** Andreia Semedo
 
-Repositório criado para organizar atividades práticas, evidências técnicas, comandos Linux e documentação do módulo de Linux, Segurança e Cloud.
+Repositório criado para organizar atividades práticas, evidências técnicas, comandos Linux e documentação do módulo de Linux, Segurança na Cloud.
 
 ---
 
