@@ -1,0 +1,35 @@
+whoami
+Finalidade: identificar o utilizador atual do sistema.
+
+id
+Finalidade: mostrar o ID do utilizador e grupos associados.
+
+groups
+Finalidade: listar os grupos do utilizador.
+
+mkdir topico-02-individual
+Finalidade: criar a estrutura da atividade.
+
+touch publico.txt
+Finalidade: criar ficheiro público.
+
+touch restrito.txt
+Finalidade: criar ficheiro restrito.
+
+touch script.sh
+Finalidade: criar script executável.
+
+ls -l
+Finalidade: listar ficheiros com permissões.
+
+chmod 644 publico.txt
+Finalidade: permitir leitura/escrita para utilizador e leitura para outros.
+
+chmod 640 restrito.txt
+Finalidade: restringir acesso ao utilizador e grupo.
+
+chmod u+x script.sh
+Finalidade: permitir execução do script pelo utilizador.
+
+./script.sh
+Finalidade: executar o script.
