@@ -4,7 +4,7 @@
 Linux no browser
 
 ## Utilizador e grupos
-(Adicionar output dos comandos whoami, id e groups)
+![Terminal Linux](evidencias/evidencia-02-utilizador-grupos.PNG)
 
 ## Ficheiros criados
 - publico.txt: ficheiro de acesso geral
