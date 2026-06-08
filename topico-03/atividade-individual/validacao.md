@@ -2,7 +2,7 @@
 
 ## URLs testados
 
-http://172.30.1.2 172.17.0.1
+http://localhost
 
 ## Resultado dos testes
 
