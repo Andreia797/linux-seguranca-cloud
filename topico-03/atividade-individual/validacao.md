@@ -2,7 +2,7 @@
 
 ## URLs testados
 
-http://localhost/topico-03
+http://172.30.1.2 172.17.0.1
 
 ## Resultado dos testes
 
