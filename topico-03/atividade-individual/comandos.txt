@@ -1,0 +1,20 @@
+mkdir -p topico-03/atividade-individual/site
+mkdir -p topico-03/atividade-individual/evidencias
+
+sudo apt install nginx -y
+sudo systemctl start nginx
+sudo systemctl status nginx
+
+mkdir /var/www/html/topico-03
+
+cp index.html /var/www/html/topico-03/
+cp sobre.html /var/www/html/topico-03/
+cp style.css /var/www/html/topico-03/
+
+curl http://localhost/topico-03
+hostname -I
+
+git status
+git add .
+git commit -m "atividade individual topico 03"
+git push
