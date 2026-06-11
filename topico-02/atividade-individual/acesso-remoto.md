@@ -13,4 +13,4 @@ Protocolo para acesso remoto seguro a servidores Linux.
 ssh utilizador@endereco_ip
 
 ## Limitação encontrada
-Não foi possível testar acesso remoto por SSH neste ambiente de aprendizagem.
+Não foi possível testar acesso remoto por SSH.
