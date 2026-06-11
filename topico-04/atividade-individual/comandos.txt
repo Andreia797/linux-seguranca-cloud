@@ -1,0 +1,36 @@
+# Criar estrutura da atividade
+
+mkdir -p topico-04/atividade-individual/evidencias
+
+cd topico-04/atividade-individual
+
+touch comandos.txt superficie-ataque.md firewall.md hardening.md validacao.md README.md
+
+# Instalar Nginx
+
+sudo apt update
+sudo apt install nginx -y
+
+# Iniciar serviço
+
+sudo systemctl start nginx
+
+# Verificar estado do serviço
+
+systemctl status nginx
+
+# Verificar portas abertas
+
+ss -tuln
+
+# Verificar firewall
+
+ufw status
+
+# Verificar IP
+
+hostname -I
+
+# Validar serviço
+
+curl localhost
